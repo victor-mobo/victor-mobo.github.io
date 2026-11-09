@@ -1,0 +1,10 @@
+# Edit freely. Anything you leave out is simply not shown.
+name: Victor Mobo            # CHECK: confirm the surname/spelling you want displayed
+position: MSc Econometrics and Mathematical Economics
+affiliation: London School of Economics
+# email: you@example.com     # uncomment to show on the Contact page
+research_interests: Wealth inequality and taxation, labour economics, housing and place, public economics.
+cv_file: cv.pdf              # put the PDF in files/
+# photo: photo.jpg           # put the image in files/
+links:
+  GitHub: https://github.com/victor-mobo
